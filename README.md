@@ -1,3 +1,7 @@
 # flexbox-tematico: naruto 
 
-La temática elegida para este trabajo es del anime Naruto, donde la paleta de colores es basada en los colores característicos del protagonista de este anime: naranjo, azul, amarillo y negro.                                                                                                                                                                            
+Este repositorio contiene el desarrollo de una aplicación web básica, tiene como objetivo 
+
+**Correo de contacto:** isidoraveliz@liceovvh.cl - castromartin@liceovvh.cl
+
+La temática principal de este proyecto es la mostrar lo más relevante del anime Naruto, enfocandonos en los datos más importantes, como una breve sinopsis, su protagonista, personas destacados, etc.
