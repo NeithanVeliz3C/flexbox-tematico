@@ -2,6 +2,7 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+    outline: solid 1px black;
 }
 
 body {
@@ -12,16 +13,18 @@ body {
 .contenedor {
     display: flex;
     height: 100vh;
+    flex-wrap: wrap;
 }
 
 /* NAV */
 .nav {
-    background-color: #37474f;
-    color: white;
+    background-image:url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6nn9-tkpzirnMEE1W07CGIlPee-Uu4WRoOHEqzLliw_8x3R125DUKN4c-pMAfLFPhhItVMuGf0hZS_QR7e-Zwd_2JH00Hmnm0JCXKkXZTlroCL1ba9rVKQ3-nMCP3-tbl32tR9toO0Do/s0/Episodios-Naruto-Shippuden-Sin-Relleno-Orden-Cronologico.png) ;
+    color: rgb(0, 0, 0);
     min-width: 200px;
     flex: 1;
     max-width: 300px;
     padding: 20px;
+    opacity: 50%;
 }
 
 .nav h2 {
@@ -38,12 +41,14 @@ body {
 
 .nav a {
     text-decoration: none;
-    color: white;
+    color: rgb(167, 0, 0);
     transition: 0.3s;
+    font-weight: bold;
+    text-shadow: #2A3143 1px 2px;
 }
 
 .nav a:hover {
-    color: #ffd54f;
+    color: #eb992f;
 }
 
 /* CONTENIDO */
@@ -72,74 +77,22 @@ body {
     transform: scale(1.05);
 }
 
-.grande {
+.Naruto {
     flex: 3;
     background-color: #fe7a35;
     color: white;
+    background-image: url(https://pbs.twimg.com/media/EJGsy5XXsAAXAbb.jpg);
 }
 
-.mediana {
-    flex: 2;
+.chakra {
+    flex: 1;
     background-color: #093c7d;
     color: white;
 }
 
 .pequeña {                                                                                                                                                                                                           
-    flex: 1;
+
     background-color: #dacc34;
     color: white;
 }
 
-.grande2 {
-    flex: 3;
-    background-color: #2a3143 ;
-    color: white;
-}
-
-.mediana2 {
-    flex: 2;
-    background-color: #8a1327;
-    color: white;
-}
-
-.pequeña2 {
-    flex: 1;
-    background-color: #123360;
-    color: white;
-}
-
-.grande3 {
-    flex: 3;
-    background-color: #f5c1c3 ;
-    color: white;
-}
-
-.mediana3 {
-    flex: 2;
-    background-color: #72be9a;
-    color: white;
-}
-
-.pequeña3 {
-    flex: 1;
-    background-color: #882238;
-    color: white;
-}
-
-.grande4 {
-    flex: 3;
-    background-color: #c4c7cc ;
-    color: white;
-}
-
-.mediana4 {
-    flex: 2;
-    background-color:#748572;
-    color: white;
-}
-
-.pequeña4 {
-    flex: 1;
-    background-color: #2f344a;
-    color: white;
-}
