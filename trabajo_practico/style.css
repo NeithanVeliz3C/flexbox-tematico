@@ -77,14 +77,14 @@ body {
     transform: scale(1.05);
 }
 
-.Naruto {
+.grande {
     flex: 3;
     background-color: #fe7a35;
     color: white;
     background-image: url(https://pbs.twimg.com/media/EJGsy5XXsAAXAbb.jpg);
 }
 
-.chakra {
+.mediana {
     flex: 1;
     background-color: #093c7d;
     color: white;
@@ -94,5 +94,12 @@ body {
 
     background-color: #dacc34;
     color: white;
+}
+
+.grande2 {
+    flex: 3;
+    background-color: #fe7a35;
+    color: white;
+    background-image: url(https://pbs.twimg.com/media/FMK_UygUcAERmVV.jpg):
 }
 
