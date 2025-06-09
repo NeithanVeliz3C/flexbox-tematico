@@ -90,3 +90,56 @@ body {
     color: white;
 }
 
+.grande2 {
+    flex: 3;
+    background-color: #2a3143 ;
+    color: white;
+}
+
+.mediana2 {
+    flex: 2;
+    background-color: #8a1327;
+    color: white;
+}
+
+.pequeña2 {
+    flex: 1;
+    background-color: #123360;
+    color: white;
+}
+
+.grande3 {
+    flex: 3;
+    background-color: #f5c1c3 ;
+    color: white;
+}
+
+.mediana3 {
+    flex: 2;
+    background-color: #72be9a;
+    color: white;
+}
+
+.pequeña3 {
+    flex: 1;
+    background-color: #882238;
+    color: white;
+}
+
+.grande4 {
+    flex: 3;
+    background-color: #c4c7cc ;
+    color: white;
+}
+
+.mediana4 {
+    flex: 2;
+    background-color:#748572;
+    color: white;
+}
+
+.pequeña4 {
+    flex: 1;
+    background-color: #2f344a;
+    color: white;
+}
