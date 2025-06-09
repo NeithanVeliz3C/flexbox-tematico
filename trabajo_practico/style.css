@@ -52,8 +52,24 @@ body {
 }
 
 /* CONTENIDO */
-.contenido {
-    flex: 4;
+.contenido1 {
+    flex: 1;
+    padding: 30px;
+    
+}
+
+.contenido2{
+    flex: 1;
+    padding: 30px;
+}
+
+.contenido3{
+    flex: 1;
+    padding: 30px;
+}
+
+.contenido4{
+    flex: 1;
     padding: 30px;
 }
 
@@ -76,6 +92,8 @@ body {
 .tarjeta:hover {
     transform: scale(1.05);
 }
+
+
 
 .grande {
     flex: 3;
