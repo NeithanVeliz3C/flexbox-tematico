@@ -109,10 +109,12 @@ body {
 
 .naruto .mediana {
     background-color: #093c7d;
+    text-shadow: 1px 1px  black;
 }
 
 .naruto .pequeña {
     background-color: #dacc34;
+    text-shadow: 1px 1px  black;
 }
 
 /* Sasuke */
@@ -124,10 +126,12 @@ body {
 
 .sasuke .mediana {
     background-color: #8a1327 ;
+    text-shadow: 1px 1px  black;
 }
 
 .sasuke .pequeña {
     background-color: #2a3143;
+    text-shadow: 1px 1px  black;
 }
 
 /* Sakura */
@@ -139,10 +143,12 @@ body {
 
 .sakura .mediana {
     background-color: #f5c1c3;
+    text-shadow: 1px 1px  black;
 }
 
 .sakura .pequeña {
     background-color: #72be9a;
+    text-shadow: 1px 1px  black;
 }
 
 /* Kakashi */
@@ -154,8 +160,10 @@ body {
 
 .kakashi .mediana {
     background-color: #748572;
+    text-shadow: 1px 1px  black;
 }
 
 .kakashi .pequeña {
     background-color: #c4c7cc;
+    text-shadow: 1px 1px  black;
 }
